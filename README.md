@@ -28,7 +28,7 @@ The dataset consists of various attributes of Ford cars, including:
 - Boxplots to detect extreme values.
 - Removal of outliers using Z-score (threshold = 3).
 
-#### **Bivariate Analysis:**
+#### **Multivariate Analysis:**
 - Correlation Heatmap: Visualizing relationships between numerical variables.
 - Pairplots: Exploring feature interactions.
 - Boxplots: Showing price & mileage distribution across car categories.
