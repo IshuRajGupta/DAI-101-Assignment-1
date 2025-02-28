@@ -13,7 +13,7 @@ This project performs an exploratory data analysis (EDA) on the Ford car dataset
 The dataset consists of various attributes of Ford cars, including:
 - Numerical Features: year, price, mileage, tax, mpg, engineSize
 - Categorical Features: model, transmission, fuelType
-Dataset Link- https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction
+- Dataset Link- https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction
 
 ### **Workflow:**
 
