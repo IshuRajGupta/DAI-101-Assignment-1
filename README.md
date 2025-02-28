@@ -43,6 +43,16 @@ The dataset consists of various attributes of Ford cars, including:
 ### **Results:**
 The project provides detailed visualizations and insights into price trends, car features, and market patterns to assist with decision-making in car pricing and selection.
 
+### **Key Insights:**
+- Data Distribution: Histograms reveal right-skewed distributions in price, mileage, and engine size.
+- Outliers: Boxplots highlight extreme values, particularly in price and mileage. Some outliers are removed using the Z-score method.
+- Correlation Analysis: Engine size and price show a positive correlation, while mileage and price are negatively correlated.
+- Trends Over Time: Car prices decline as vehicles age, indicating depreciation.
+- Model Popularity: Certain car models dominate listings, with clear preferences in the market.
+- Fuel Type and Mileage: Diesel cars generally have higher mileage compared to petrol cars.
+- Transmission Impact: Automatic cars tend to have higher prices and wider price variations than manual cars.
+- Feature Engineering: A new feature, "Price per Engine Size," is created to analyze cost efficiency.
+  
 ### **Dependencies:**
 - pandas
 - numpy
